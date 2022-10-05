@@ -1,0 +1,2 @@
+pyinstaller
+pandas~=1.4.4
